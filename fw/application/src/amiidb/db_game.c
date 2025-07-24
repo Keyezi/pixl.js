@@ -73,6 +73,7 @@ const db_game_t game_list[] = {
 {70, 0, "Mario Sports Superstars", "马里奥运动：超级明星", 5, 90}, 
 {71, 0, "Super Nintendo World series", "超级任天堂世界", 5, 9}, 
 {72, 0, "Street Fighter 6", "街头霸王6", 5, 25}, 
+{73, 0, "DonkeyKong: Bananza", "咚奇刚：蕉力全开", 151, 1},
 {255, 0, "Others", "未分类", 0, 4}, 
 {0, 0, 0, 0, 0}
 };
